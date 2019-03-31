@@ -1,37 +1,21 @@
 ## Welcome to our TNC Survey Website!
 
-You can use the [editor on GitHub](https://github.com/jializhouneu/TNCSurvey/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for your interests in our survey. We are still in the process of collecting responses. Once collection and analysis process is complete, we'll post the results in this webpage!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you are interested in the raffle results, please check out the link below! (It will be available in July)
+You can use the [Check raffle](https://github.com/jializhouneu/TNCSurvey/edit/master/README.md) to check the results of raffle. 
 
-### Markdown
+### Findings
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Findings not avaialable now. 
 
-```markdown
-Syntax highlighted code block
+### Contact us
 
-# Header 1
-## Header 2
-### Header 3
+Feel free to contact us: 
 
-- Bulleted
-- List
+Jiali Zhou
+Phd Candidate
+Northeastern University
+zhou.jiali1@husky.neu.edu
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jializhouneu/TNCSurvey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
