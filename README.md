@@ -7,7 +7,7 @@ You can use the [Check raffle](https://github.com/jializhouneu/TNCSurvey/edit/ma
 
 ### Findings
 
-Findings not avaialable now. 
+Findings not available now. 
 
 ### Contact us
 
