@@ -13,12 +13,10 @@ Findings not available now.
 
 Feel free to contact us: 
 
-Jiali Zhou,
+Jiali Zhou
 
-Phd Candidate,
-
-,Northeastern University
-
-,zhou.jiali1@husky.neu.edu
+Phd Candidate
+Northeastern University
+zhou.jiali1@husky.neu.edu
 
 
