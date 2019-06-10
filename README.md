@@ -2,8 +2,11 @@
 
 Thank you for your interests in our survey. We are still in the process of collecting responses. Once collection and analysis process is complete, we'll post the results in this webpage!
 
-If you are interested in the raffle results, please check out the link below! (It will be available in July)
-You can use the [Check lottery](https://github.com/jializhouneu/TNCSurvey/edit/master/README.md) to check the results of lottery. 
+
+### TNC Survey Gift Cards
+
+The winners have already received e-gift cards from Amazon. Congratulations to them! If you have any questions, please contact: zhou.jiali1@husky.neu.edu
+
 
 ### Findings
 
