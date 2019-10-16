@@ -10,10 +10,11 @@ The winners have already received e-gift cards from Amazon. Congratulations to t
 
 ### Findings
 
-#### Chord diagrams showing Origin-Destination flows for all-day Uber/Lyft trips.
-![Image of Yaktocat](https://github.com/jializhouneu/TNCSurvey/blob/master/PastedGraphic-6.png?raw=true)
+#### Figure 1. Chord diagrams showing Origin-Destination flows for all-day Uber/Lyft trips.
+![Image of All-day](https://github.com/jializhouneu/TNCSurvey/blob/master/PastedGraphic-6.png?raw=true)
 
-
+#### Figure 2. Chord diagrams showing Origin-Destination flows for 5-9 PM Uber/Lyft trips.
+![Image of PM](https://github.com/jializhouneu/TNCSurvey/blob/master/PastedGraphic-7.png?raw=true)
 ### Contact us
 
 Feel free to contact us: 
